@@ -1,3 +1,4 @@
+#!/bin/env
 import os
 import string
 
